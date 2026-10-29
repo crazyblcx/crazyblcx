@@ -1,4 +1,4 @@
-## Hi there 👋
+![My Profile Image](Untitled285_20261029073509.png)
 
 <!--
 **crazyblcx/crazyblcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
